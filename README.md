@@ -1,8 +1,8 @@
-# 2026-Spring-Stat2-Cycle-4
+# 2026 Final project
 
 ## 👥 Student Information
-* **Name:** (請填寫你的姓名)
-* **Student ID:** (請填寫你的學號)
+* Name:王奕晴
+* Student ID:113370234
 
 ## 🔗 Project Repository
 * [https://github.com/yiching1215/Final_project](https://github.com/yiching1215/Final_project)
