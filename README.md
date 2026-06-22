@@ -8,7 +8,7 @@
 * [https://github.com/yiching1215/Final_project](https://github.com/yiching1215/Final_project)
 
 ## 🎥 Presentation Video
-* [請在此處貼上你的 YouTube 影片連結]
+* [[請在此處貼上你的 YouTube 影片連結](https://youtu.be/lefoxUAO2uI)]
 
 ---
 
