@@ -8,7 +8,7 @@
 * [https://github.com/yiching1215/Final_project](https://github.com/yiching1215/Final_project)
 
 ## 🎥 Presentation Video
-* [[113370234王奕晴 video link](https://youtu.be/lefoxUAO2uI)]
+* [113370234王奕晴 video link](https://youtu.be/lefoxUAO2uI)
 
 ---
 
